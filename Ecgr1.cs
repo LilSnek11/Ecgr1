@@ -14,7 +14,7 @@ namespace Program
             n = Convert.ToInt32(a);
             b = Console.ReadLine();
             m = Convert.ToInt32(b);
-            c = -n/ m;
+            c = -m/ n;
             Console.Write("x= {0}",c);
 
 
